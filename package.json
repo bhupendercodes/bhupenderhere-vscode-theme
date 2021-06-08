@@ -1,0 +1,37 @@
+{
+  "name": "bhupenderhere-theme",
+  "displayName": "bhupenderhere-theme",
+  "description": "A Dark Solarized Theme With A Lot Of Colors.",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "bhupenderhere",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhupenderhere/bhupenderhere-vscode-theme.git"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "bhupenderhere-theme",
+    "theme",
+    "bhupenderhere"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bhupenderhere-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bhupenderhere-theme-color-theme.json"
+      }
+    ]
+  }
+}
