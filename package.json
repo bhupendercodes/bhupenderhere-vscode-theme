@@ -3,7 +3,7 @@
   "displayName": "bhupenderhere-theme",
   "description": "A Dark Solarized Theme With A Lot Of Colors.",
   "version": "0.0.1",
-  "icon": "icon.png",
+  "icon": "icon.jpg",
   "publisher": "bhupenderhere",
   "engines": {
     "vscode": "^1.54.0"
