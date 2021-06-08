@@ -2,7 +2,7 @@
 
 > Theme Example
 
-![Preview](https://github.com/bhupenderhere/bhupenderhere-vscode-theme/blob/main/sample.png)
+![Theme Sample Image](https://github.com/bhupenderhere/bhupenderhere-vscode-theme/blob/main/sample.png)
 
 ## Installation
 
